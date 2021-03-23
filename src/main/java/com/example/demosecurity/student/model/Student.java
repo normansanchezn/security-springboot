@@ -1,4 +1,4 @@
-package com.example.demosecurity.student;
+package com.example.demosecurity.student.model;
 
 public class Student {
     private final Integer studentId;
