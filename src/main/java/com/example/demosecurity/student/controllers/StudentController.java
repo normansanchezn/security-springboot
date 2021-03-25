@@ -1,4 +1,4 @@
-package com.example.demosecurity.student;
+package com.example.demosecurity.student.controllers;
 
 import com.example.demosecurity.student.model.Student;
 import org.springframework.web.bind.annotation.GetMapping;
